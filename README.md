@@ -25,14 +25,14 @@ progresses.
 
 ## 👨‍💻 Intern Information
 
-**Name:** Sheik Arshad Ibrahim\
-**USN:** 1AM22IS100\
+**Name:** Sayed Jahangir Ali\
+**USN:** 1AM22IS096\
 **College:** AMC Engineering College\
 **Internship Program:** Full Stack Web Development Internship\
 **Platform:** SuprMentr
 
 **GitHub Profile:**\
-https://github.com/arshadibrahim882
+https://github.com/Jahangir-ali-74
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ This repository serves as:
 
 You can explore the full repository here:
 
-https://github.com/arshadibrahim882/Sheik-Arshad-Ibrahim-1AM22IS100-FSWD-SuprMentr-Internship-Assignments
+https://github.com/Jahangir-ali-74/SAYED-JAHANGIR-ALI-1AM22IS096-FSWD-SuprMentr-Internship-Assignments
 
 ------------------------------------------------------------------------
 
@@ -94,6 +94,6 @@ and projects**.
 
 ## 👤 Author
 
-Created by **[Sheik Arshad Ibrahim](https://github.com/arshadibrahim882)**
+Created by **[Sayed Jahangir Ali](https://github.com/Jahangir-ali-74)**
 
 © 2026
